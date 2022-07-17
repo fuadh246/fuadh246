@@ -9,7 +9,7 @@ l’m a Freshman undergraduate student at Temple University pursuing a B.S in da
 * 🌍  I'm based in Lansdale, PA, USA
 * 🖥️  See my portfolio at [Fuad Hassan web](http://fuadhassan.netlify.app)
 * ✉️  You can contact me at [fuadh246@gmail.com](mailto:fuadh246@gmail.com)
-* 🧠  I'm learning "NOTHING"
+* 🧠  I'm learning "react JS"
 
 ### Skills
 
