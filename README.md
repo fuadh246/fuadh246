@@ -3,6 +3,7 @@ Hi 👋 My name is Fuad Hassan
 
 Data Science Major
 ------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadh246&label=Profile%20views&color=0e75b6&style=flat" alt="fuadh246" /> </p>
 
 l’m a junior undergraduate student at Temple University pursuing a B.S in data science with concentration in computational analytics. My passion for technology and coding have brought me towards furthering this goal. Through academic coursework, I have been exposed to many different languages and systems vital in Programming and database management. I have developed skills in JAVA/JDBC, C, SQL/mysql, HTML, CSS3 and some Python as well. With this foundation, I hope to continue to build skills in information systems to help me strengthen my value and grasp within the major.
 
