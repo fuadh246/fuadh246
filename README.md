@@ -10,7 +10,7 @@ l’m a junior undergraduate student at Temple University pursuing a B.S in data
 * 🌍  I'm based in Lansdale, PA, USA
 * 🖥️  See my portfolio at [Fuad Hassan web](http://fuadhassan.netlify.app)
 * ✉️  You can contact me at [fuadh246@gmail.com](mailto:fuadh246@gmail.com)
-* 🧠  I'm learning "react JS"
+* 🧠  I'm learning "ML"
 
 ### Skills
 
@@ -44,10 +44,9 @@ l’m a junior undergraduate student at Temple University pursuing a B.S in data
 
 <a href="https://github.com/fuadh246" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadh246&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<img src="https://raw.githubusercontent.com/fuadh246/fuadh246/output/snake.svg" alt="Snake animation" />
+
 <b>Top Repositories</b>
 
 
-<div width="100%" align="center"><a href="https://github.com/fuadh246/BDC_RA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=BDC_RA&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fuadh246/password_-generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=password_-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/fuadh246/gapcalculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=gapcalculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fuadh246/TODO_py" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=TODO_py&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/fuadh246/BDC_RA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=BDC_RA&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fuadh246/house_price_prediction_2.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=house_price_prediction_2.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
