@@ -46,6 +46,7 @@ l’m a junior undergraduate student at Temple University pursuing a B.S in data
 
 <b>Top Repositories</b>
 
+
 <div width="100%" align="center"><a href="https://github.com/fuadh246/BDC_RA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=registrationForm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fuadh246/password_-generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=password_-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
