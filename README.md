@@ -8,9 +8,9 @@ Data Science Major
 l’m a junior undergraduate student at Temple University pursuing a B.S in data science with concentration in computational analytics. My passion for technology and coding have brought me towards furthering this goal. Through academic coursework, I have been exposed to many different languages and systems vital in Programming and database management. I have developed skills in JAVA/JDBC, C, SQL/mysql, HTML, CSS3 and some Python as well. With this foundation, I hope to continue to build skills in information systems to help me strengthen my value and grasp within the major.
 
 * 🌍  I'm based in Lansdale, PA, USA
-* 🖥️  See my portfolio at [Fuad Hassan web](http://fuadhassan.netlify.app)
+* 🖥️  See my portfolio at [Fuad Hassan web](https://fuadh246.github.io/myweb/)
 * ✉️  You can contact me at [fuadh246@gmail.com](mailto:fuadh246@gmail.com)
-* 🧠  I'm learning "ML"
+* 🧠  I'm learning ... 
 
 ### Skills
 
