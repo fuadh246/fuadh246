@@ -5,7 +5,7 @@ Data Science Major
 ------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadh246&label=Profile%20views&color=0e75b6&style=flat" alt="fuadh246" /> </p>
 
-👋 Hey, I'm Fuad Hassan, a Data Science junior at Temple University. Proficient in Python and R, my GitHub highlights projects where I've applied these skills to solve complex data problems, from predictive modeling to insightful visualizations. With a solid foundation in coding and a passion for data-driven insights, I'm committed to pushing boundaries and making a tangible impact through innovative data analysis.
+👋 Hey, I'm Fuad Hassan, a Data Science junior at Temple University. Proficient in Python and other languages, my GitHub highlights projects where I've applied these skills to solve complex data problems, from predictive modeling to insightful visualizations. With a solid foundation in coding and a passion for data-driven insights, I'm committed to pushing boundaries and making a tangible impact through innovative data analysis.
 
 * 🌍  I'm based in Lansdale, PA, USA
 * 🖥️  See my portfolio at [Fuad Hassan web](https://fuadh246.github.io/myweb/)
@@ -36,4 +36,6 @@ Data Science Major
 <b>Top Repositories</b>
 
 
-<div width="100%" align="center"><a href="https://github.com/fuadh246/BDC_RA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=BDC_RA&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fuadh246/Movie-Recommender" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=Movie-Recommender&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/fuadh246/BDC_RA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=BDC_RA&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fuadh246/Movie-Recommender" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=Movie-Recommender&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/fuadh246/BDC_RA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=Credit-score-classification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br /><br /><br /><br />
