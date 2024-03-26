@@ -10,7 +10,7 @@ Data Science Major
 * 🌍  I'm based in Lansdale, PA, USA
 * 🖥️  See my portfolio at [Fuad Hassan web](https://fuadh246.github.io/myweb/)
 * ✉️  You can contact me at [fuadh246@gmail.com](mailto:fuadh246@gmail.com)
-* 🧠  I'm learning ... 
+* 🧠  I'm learning Deep Learning 
 
 ### Skills
 
