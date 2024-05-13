@@ -37,9 +37,3 @@ I'm Fuad Hassan, a Data Science junior at Temple University. Proficient in Pytho
 
 
 <b>Top Repositories</b>
-
-
-<div width="100%" align="center"><a href="https://github.com/fuadh246/BDC_RA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=BDC_RA&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fuadh246/Movie-Recommender" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=Movie-Recommender&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <br /><br /><br /><br /><br /><br /><br />
-<a href="https://github.com/fuadh246/BDC_RA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadh246&repo=Credit-score-classification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div><br /><br /><br /><br /><br /><br /><br />
