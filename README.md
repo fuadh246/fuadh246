@@ -5,7 +5,7 @@ Data Science Major
 ------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadh246&label=Profile%20views&color=0e75b6&style=flat" alt="fuadh246" /> </p>
 
-I'm Fuad Hassan, a Data Science junior at Temple University. Proficient in Python and other languages, my GitHub highlights projects where I've applied these skills to solve complex data problems, from predictive modeling to insightful visualizations. With a solid foundation in coding and a passion for data-driven insights, I'm committed to pushing boundaries and making a tangible impact through innovative data analysis.
+I'm Fuad Hassan, a Data Science senior at Temple University. Proficient in Python and other languages, my GitHub highlights projects where I've applied these skills to solve complex data problems, from predictive modeling to insightful visualizations. With a solid foundation in coding and a passion for data-driven insights, I'm committed to pushing boundaries and making a tangible impact through innovative data analysis.
 
 * 🌍  I'm based in Lansdale, PA, USA
 * 🖥️  See my portfolio at [Fuad Hassan web](https://fuadh246.github.io/)
