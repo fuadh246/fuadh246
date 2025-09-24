@@ -11,8 +11,10 @@ I'm currently working as a Software Engineer.
 
 On the side, I'm actively exploring FinTech and AI/ML.
 
-* 🌍  I'm based in Lansdale, PA, USA
-* 🖥️  See my portfolio at [Fuad Hassan web](https://fuadh246.github.io/)
+Currently developing an alternative-data research platform that uses SEC insider-trading filings to explore and test potential predictive signals for equity markets.
+
+* 🌍  I'm based in Philadelphia, PA, USA
+* 🖥️  See my portfolio at [Fuad Hassan](https://fuadh246.github.io/)
 * ✉️  You can contact me at [fuadh246@gmail.com](mailto:fuadh246@gmail.com)
 * 🧠  I'm learning Fintech
 
